@@ -35,7 +35,7 @@ It uses **Environment Variables** to securely store credentials and logs all sen
 1. کلون کردن ریپوزیتوری / Clone the repo:
 ```bash
 git clone https://github.com/arashqz/TeleMail.git
-cd telemail-bot
+cd TeleMail
 ```
 
 2. نصب پیش‌نیازها / Install requirements:
