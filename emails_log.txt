@@ -1,0 +1,8 @@
+Sender Name: "example_sender@gmail.com"
+Sender ID: 123456789
+Sender Username: example_user
+Target Email: example_receiver@example.com
+Subject: Sample Subject
+Text: This is a sample email text.
+Time: 2024-09-22 22:46:18
+-------
